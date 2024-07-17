@@ -5,7 +5,7 @@
     background-color: #f5f5f5;
 }
 
-.container {
+.container.grid {
     width: 960px;
     height: 960px;
     margin: auto;
@@ -14,7 +14,7 @@
     flex-wrap: wrap;
 }
 
-.btn {
+.btn-reset {
     border: 0px;
     border-radius: 10px;
     padding: 40px 60px;
