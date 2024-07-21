@@ -40,9 +40,7 @@ function resetAndResizeBoard() {
 
     const dimension = getDimension();
     removeGrid();
-    console.log(childDiv.length);
     createGrid(dimension);
-    console.log(childDiv.length);  
 }
 
 function addEventListenerHover() {
